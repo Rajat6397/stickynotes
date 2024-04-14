@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+.container{
+
+    height:250px;
+    width:24%;
+    background-color: #fff;
+    padding: 10px;
+}
+h1{
+    color:#0000ff;
+}
+#text_area{
+    background-color: lightgreen;
+    border: 2px solid black;
+    height:70%;
+    width:90%;
+}
+#area{
+    height:15%;
+    width:70%;
+}
+ #notes_container{
+    height:900px;
+    width:200px;
+} 
+ .cross_btn{
+    width:10%; 
+
+} 
+button{
+  width:90%;
+  padding-top:5px;
+  padding-bottom: 5px;
+}
+#hide{
+     color:bisque; 
+}
